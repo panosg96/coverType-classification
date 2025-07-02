@@ -1,1 +1,1 @@
-# coverTree-classification
+# coverType-classification
