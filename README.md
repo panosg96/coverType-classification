@@ -1,4 +1,4 @@
-# coverType-classification
+# Classification of forest cover type
 
 ### This project is part of the **Build Deep Learning Models with TensorFlow** course in Codecademy.
 ### The data set cover-data.csv has been zipped for size upload convenience.
